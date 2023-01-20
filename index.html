@@ -4,16 +4,24 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
     <title>Document</title>
 </head>
 <body>
     
-<h1>Git Tutorial</h1>
-<h2>Git Tutorial</h2>
-<h3>Git Tutorial</h3>
-<h4>Git Tutorial</h4>
-<h5>Git Tutorial</h5>
-<h6>Git Tutorial</h6>
+    <div id="container" class="container">
+        <h1>Git Tutorial</h1>
+        <h1>Git UndoChanges</h1>
+    </div>
 
+
+<script>
+    let div = document.createElement('div');
+    div.innerHTML = `
+    <h2>sub heading</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Officiis quae minus eveniet et illo reprehenderit nisi sit ea quisquam, exercitationem corporis maiores illum iure eos sunt perferendis, debitis, quo odit?</p>
+    `;
+    document.getElementById('container').append(div);
+</script>
 </body>
 </html>
