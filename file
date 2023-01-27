@@ -1,0 +1,96 @@
+[33mcommit c8e7300a533134be29792399b3c3b8ac6d82d07e[m[33m ([m[1;36mHEAD -> [m[1;32mundoChanges[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Fri Jan 20 08:53:31 2023 +0530
+
+    Revert "text added"
+    
+    This reverts commit a6c76535058b506cd438a01bf82684c0765265c9.
+
+[33mcommit a6c76535058b506cd438a01bf82684c0765265c9[m[33m ([m[1;31morigin/undoChanges[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Fri Jan 20 08:47:40 2023 +0530
+
+    text added
+
+[33mcommit faca00bebedb086ac5ca6168dbab058d7fdd509d[m[33m ([m[1;32mfeature/TXT-GitStash[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Fri Jan 20 08:31:10 2023 +0530
+
+    inde.html style.css is added
+
+[33mcommit 4abec741db746729fe1ac163f159dede0e3836f1[m[33m ([m[1;31morigin/feature/TXT-GitStash[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Fri Jan 20 08:21:25 2023 +0530
+
+    Added README File
+
+[33mcommit b110b947a59f3a19a1830db4a4837ec9d77d30ee[m[33m ([m[1;31morigin/feature/TXT-1899[m[33m, [m[1;32mfeature/TXT-1899[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 16:31:30 2023 +0530
+
+    new js file is added
+
+[33mcommit 7d5b66be8f383e4966ef0754559b1cecb6eca6f8[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 16:20:03 2023 +0530
+
+    new file added
+
+[33mcommit 618c989b79bbca5e8d7be0d265cd57a55bfd8e45[m
+Merge: 71bfe40 29600cd
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 16:03:53 2023 +0530
+
+    Merge branch 'develop' of https://github.com/pjram9806/testRepo into feature/TXT-1899
+
+[33mcommit 29600cdf3cb647ae1479f73a037298032dda8608[m
+Merge: 4b24456 efd92a5
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 15:56:06 2023 +0530
+
+    Merge branch 'develop' of https://github.com/pjram9806/testRepo into develop
+
+[33mcommit 4b24456917483195bc654dc44dc51d67976a1b3b[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 15:54:21 2023 +0530
+
+    3 files deleted 1 file added
+
+[33mcommit 71bfe401133027c09b9a5d61ae630cbd2a9437bc[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 15:52:16 2023 +0530
+
+    index.html updated
+
+[33mcommit efd92a58643cfabcbe61e0041462ebcdadcceb4e[m
+Merge: d253922 5c125bb
+Author: P.Janaki Ram <41941197+pjram9806@users.noreply.github.com>
+Date:   Thu Jan 19 15:33:17 2023 +0530
+
+    Merge pull request #1 from pjram9806/feature/TXT-1899
+    
+    TXT-1899:Introduce HTML In The Test Project
+
+[33mcommit 5c125bbfe94576fb36827f6782dc7a181a07c4ee[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 19 15:24:28 2023 +0530
+
+    index.html introduced
+
+[33mcommit d25392269232dd021fd196382cc99714d3414e0c[m[33m ([m[1;31morigin/backend[m[33m, [m[1;32mbackend[m[33m)[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 12 13:31:08 2023 +0530
+
+    Added Headings File
+
+[33mcommit 33cbebbf16342c32211afb5c1509c9cba9b88ea9[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 12 13:10:51 2023 +0530
+
+    Added commnds file
+
+[33mcommit 022cccdf2cfc507d5c3af641b2c753b5c3f2866f[m
+Author: P.Janaki <pjram9806@gmail.com>
+Date:   Thu Jan 12 13:04:46 2023 +0530
+
+    added readme.md file
